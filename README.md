@@ -1,2 +1,2 @@
-# Car Prices Prediction
+# Car Price Prediction
 The task is to train a model that accurately predicts the car prices given the other attributes of the dataset. Further, this model is applied on the test data to predict the price for each test example. The predictions are automatically assessed and used to compute the Mean Average Error (MAE) metric between the true price and the predicted price. Lower values mean a better result.
